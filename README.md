@@ -1,6 +1,6 @@
 # Budget-Calculator
 
-This application provides a clean and interactive interface manage budget. 
+This web application provides a clean and interactive interface to manage budget. Check it out at: https://song-xiao.github.io/Budget-Calculator/
 
 It allows user to add or remove income and expense. It calculates and displays the available budget in the current month in real time. 
 
